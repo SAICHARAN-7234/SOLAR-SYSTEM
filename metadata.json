@@ -1,0 +1,6 @@
+{
+  "name": "ORRERY-X Telemetry Matrix",
+  "description": "High-precision 3D solar system orrery, planetary telemetry matrix, and deep space probe flight tracking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
